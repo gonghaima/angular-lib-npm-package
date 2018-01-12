@@ -69,5 +69,6 @@ $ npm run lint
 
 ## License
 Ref: https://github.com/jvandemo/generator-angular2-library
+Yoman: generator-angular2-library
 
 MIT © [steven](mailto:gonghaima@hotmail.com)
