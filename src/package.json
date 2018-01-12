@@ -1,0 +1,28 @@
+{
+  "name": "angular-library-starter-poc-1",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gonghaima/angular-lib-npm-package.git"
+  },
+  "author": {
+    "name": "steven",
+    "email": "gonghaima@hotmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gonghaima/angular-lib-npm-package.git/issues"
+  },
+  "main": "angular-library-starter-poc-1.umd.js",
+  "module": "angular-library-starter-poc-1.js",
+  "jsnext:main": "angular-library-starter-poc-1.js",
+  "typings": "angular-library-starter-poc-1.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
